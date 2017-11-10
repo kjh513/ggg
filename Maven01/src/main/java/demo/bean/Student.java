@@ -19,7 +19,7 @@ public class Student {
     private String sex;
     private Date  hire;
     private Integer gid;
-    
+    private Integer gihjjjd;
     @ManyToOne
     private Grade grade;
     
